@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-r0010123jpg",
-      "name": "R0010123.JPG",
+      "id": "0-pano_20230418_145451",
+      "name": "PANO_20230418_145451",
       "levels": [
         {
           "tileSize": 256,
@@ -22,7 +22,7 @@ var APP_DATA = {
           "size": 2048
         }
       ],
-      "faceSize": 1344,
+      "faceSize": 2048,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -35,8 +35,8 @@ var APP_DATA = {
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "autorotateEnabled": true,
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
